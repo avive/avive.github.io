@@ -30,5 +30,5 @@ Designed and built what is now core HTML5 concepts in 1997 while working for Mic
 ## 2000-2004 - Co-founder and CTO, Friskit, Inc, San Francisco, CA
 Pioneering social consumer web apps in 2000 in my San-Francisco based startup Friskit - built a full social music discovery, sharing, recommendation, search and playback web app that Newsweek named Streaming Napster and “one of the top 10 technologies that are going to change your life in 2001”. The web app provided users with a personalized streaming radio stations from artists and genres of music you liked and that your friend recommended. Friskit was the first Internet personalized radio app using web technologies. Advanced use of Java, scripting and html in early browsers combined with a C++ based streaming audio Internet search engine and collaborative-filtering based music recommendation system.
 
-
+* [Contact me](mailto:aviveyal07@gmail.com)
 
