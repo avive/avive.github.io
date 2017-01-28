@@ -29,7 +29,7 @@ Founded and built Musicsoft Arts - a nyc-based mobile music apps company in 2009
 ## 2014-Present - Co-founder and CTO, GONG! Inc, New York, NY
 Co-founded GONG! a nyc-based social news platform. Shipped 3 iterations of the main product which includes high-quality consumer native iOS Apps and a responsive news platform website available at [gongsters.com](https://gongsters.com)
 
-## 1998-2000 - Software developer, Microsoft Corp, Redmond, WA
+## 1998-2000 - Software developer, Microsoft, Redmond, WA
 Designed and built what is now core HTML5 concepts in 1997 while working for Microsoft in Redmond on Internet multimedia rich content editing and playback technologies for Internet Explorer and Office Apps such as animation, sound and enhanced browser capabilities. Worked on enhancing Internet Explorer multimedia capabilities with Java, C++, Script and SMIL. Shipped an HTML-based multimedia editor for Office documents.
 
 * [Microsoft Office Vizact](https://en.wikipedia.org/wiki/Microsoft_Vizact)
