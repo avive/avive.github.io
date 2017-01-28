@@ -9,6 +9,8 @@ Entrepreneur and technologist. My passion is building consumer digital products 
 ## 2004-2006 - Co-founder and CTO, Grouper Networks / Crackle, San Francisco, CA
 Designed and built the first consumer-grade personal media sharing Windows desktop App for Grouper Networks in 2004. The App won PC Magazine editor's choice for best personal media PC App with 4.5/5 starts in 2005. The App allowed unlimited sharing of photos and personal videos between family, friends and other groups using an in-house developed peer-to-peer networking technology. The App provided an advanced user interface using early c#/.net and native windows apis technologies combined with a robust network services backend.
 
+* [Grouper 1.0 Beta PC Magazine Review] (http://www.pcmag.com/article2/0,2817,1706557,00.asp)
+
 Built a large scale user-generated video web app as a co-founder of Grouper Networks in San Francisco in 2005 (Now named Sony Crackle). Hired and grew a great development and product team. Designed the backend and the front-end. Built flash-based video players. Helped the company achieve massive global growth and engagement over a short period of time that led to the company’s acquisition by Sony in one year for $65M USD using new growth-hacking techniques that involved making videos on the platform easy discoverable on 3rd party search engines such as Yahoo! video search and Google video search services on emerging Internet protocols such as media-rss and atom. The company, renamed [Crackle](http://crackle.com) is now Sony main Internet video platform.
 
 ## 2006-2008 - VP, Technology, Sony, San Francisco, CA
