@@ -3,6 +3,7 @@ Entrepreneur and technologist. My passion is building consumer digital products 
 
 * [Visual Mobile Apps Design Portfolio](https://www.behance.net/aviveyal07926b) on Behance
 * [LinkedIn Profile](https://www.linkedin.com/in/avive)
+* [Contact me](mailto:aviveyal07@gmail.com)
 
 # Career Highlights
 
@@ -39,6 +40,4 @@ Pioneering social consumer web apps in 2000 in my San-Francisco based startup Fr
 
 * [2001:A Tech Odyssey - Newsweek](http://www.newsweek.com/2001-tech-odyssey-155835)
 
-
-* [Contact me](mailto:aviveyal07@gmail.com)
 
