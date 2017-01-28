@@ -1,7 +1,7 @@
 # About Me
 Entrepreneur and technologist. My passion is building consumer digital products and services that are useful, innovative, easy to use and have a great user experience. I’m a universalist software designer that has a track-record building high-quality full-stack systems, native apps, server and backend stacks all the way from conception, design, project management to production and users growth with small teams and limited resources. I’ve been serving mainly in co-founder/cto roles in innovative startups where I always make hands-on product and technology contributions while also driving the higher-level strategic technology decisions, team building and growth, and IP. I started 2 successful consumer media startups in San Francisco and NY.
 
-* [Visual Mobile Apps Design Portfolio](https://www.behance.net/aviveyal07926b) on Behance
+* [Visual Design Portfolio](https://www.behance.net/aviveyal07926b) on Behance
 * [LinkedIn Profile](https://www.linkedin.com/in/avive)
 * [Contact me](mailto:aviveyal07@gmail.com)
 
