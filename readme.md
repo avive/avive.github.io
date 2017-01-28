@@ -14,7 +14,7 @@ Designed and built the first consumer-grade personal media sharing Windows deskt
 
 Built a large scale user-generated video web app (Now renamed [Crackle.com](https://crackle.com)). Hired and grew a great development and product team. Designed the backend and the front-end. Built flash-based video players. Helped the company achieve massive global growth and engagement over a short period of time that led to the company’s acquisition by Sony in one year for $65M USD using new growth-hacking techniques that involved making videos on the platform easy discoverable on 3rd party search engines such as Yahoo! video search and Google video search services on emerging Internet protocols such as media-rss and atom. The company, renamed [Crackle](http://crackle.com) is now Sony main Internet video platform.
 
-* [Grouper Sells to Sony]https://techcrunch.com/2006/08/22/wow-grouper-sells-for-65-million/
+* [Grouper Sells to Sony](https://techcrunch.com/2006/08/22/wow-grouper-sells-for-65-million/)
 
 
 ## 2006-2008 - VP, Technology, Sony, San Francisco, CA
