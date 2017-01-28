@@ -31,6 +31,9 @@ Co-founded GONG! a nyc-based social news platform. Shipped 3 iterations of the m
 ## 1998-2000 - Software developer, Microsoft Corp, Redmond, WA
 Designed and built what is now core HTML5 concepts in 1997 while working for Microsoft in Redmond on Internet multimedia rich content editing and playback technologies for Internet Explorer and Office Apps such as animation, sound and enhanced browser capabilities. Worked on enhancing Internet Explorer multimedia capabilities with Java, C++, Script and SMIL. Shipped an HTML-based multimedia editor for Office documents.
 
+* [Microsoft Office Vizact](https://en.wikipedia.org/wiki/Microsoft_Vizact)
+* [Microsoft Announces Vizact](https://news.microsoft.com/1999/05/26/microsoft-announces-vizact-2000-the-newest-application-from-office-free-preview-now-available-for-download-from-the-web/)
+
 ## 2000-2004 - Co-founder and CTO, Friskit, Inc, San Francisco, CA
 Pioneering social consumer web apps in 2000 in my San-Francisco based startup Friskit - built a full social music discovery, sharing, recommendation, search and playback web app that Newsweek named Streaming Napster and “one of the top 10 technologies that are going to change your life in 2001”. The web app provided users with a personalized streaming radio stations from artists and genres of music you liked and that your friend recommended. Friskit was the first Internet personalized radio app using web technologies. Advanced use of Java, scripting and html in early browsers combined with a C++ based streaming audio Internet search engine and collaborative-filtering based music recommendation system.
 
