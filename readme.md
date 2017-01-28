@@ -1,10 +1,10 @@
 # About Me
 Entrepreneur and technologist. My passion is building consumer digital products and services that are useful, innovative, easy to use and have a great user experience. I’m a universalist software designer that has a track-record building high-quality full-stack systems, native apps, server and backend stacks all the way from conception, design, project management to production and users growth with small teams and limited resources. I’ve been serving mainly in co-founder/cto roles in innovative startups where I always make hands-on product and technology contributions while also driving the higher-level strategic technology decisions, team building and growth, and IP. I started 2 successful consumer media startups in San Francisco and NY.
 
-[Visual Mobile Apps Design Portfolio](https://www.behance.net/aviveyal07926b) on Behance
-[LinkedIn Profile](https://www.linkedin.com/in/avive)
+* [Visual Mobile Apps Design Portfolio](https://www.behance.net/aviveyal07926b) on Behance
+* [LinkedIn Profile](https://www.linkedin.com/in/avive)
 
-# My Career Highlights
+# Career Highlights
 
 ## 2004-2006 - Co-founder and CTO, Grouper Networks / Crackle, San Francisco, CA
 Designed and built the first consumer-grade personal media sharing Windows desktop App for Grouper Networks in 2004. The App won PC Magazine editor's choice for best personal media PC App with 4.5/5 starts in 2005. The App allowed unlimited sharing of photos and personal videos between family, friends and other groups using an in-house developed peer-to-peer networking technology. The App provided an advanced user interface using early c#/.net and native windows apis technologies combined with a robust network services backend.
@@ -16,6 +16,8 @@ I’ve initiated and successfully shipped several innovative products that broug
 
 ## 2009-2014 - Owner, Musicsoft Arts LLC, New York, NY
 Founded and built Musicsoft Arts - a nyc-based mobile music apps company in 2009. Released 10 innovative music apps including the first music mixing app for iPhones and iPad. Grew the company to 25 million total app installs and profitability within a year of operations utilizing a great product, sales and engineering team and without any external investment. The apps were top-charting the App Store music apps category globally throughout the company life. Pioneered mobile native advertising and freemium business models on mobile platforms. This includes native premium app functionality and music content sponsorships from major artists and brands such as Hyundai, Moet Hennessy and Ford. Built the official mobile app for major music artists and DJs such as Carl Cox and DJ Spooky. I’ve conceptualized and built the world’s first music album by a major recording artist released as an exclusive mobile App for smartphones and tablets using a freemium business model. Built the official Vibe magazine iOS app with exclusive hip-hop music content. Designed and built a successful app that allows users to play a music videos channel based on their iTunes music library content.
+
+* [Carl Cox App Demo Video](https://www.youtube.com/watch?v=B3Ea78js6BE)
 
 ## 2014-Present - Co-founder and CTO, GONG! Inc, New York, NY
 Co-founded GONG! a nyc-based social news platform. Shipped 3 iterations of the main product which includes high-quality consumer native iOS Apps and a responsive news platform website available at [gongsters.com](https://gongsters.com)
