@@ -44,4 +44,7 @@ Pioneering social consumer web apps in 2000 in my San-Francisco based startup Fr
 
 * [2001:A Tech Odyssey - Newsweek](http://www.newsweek.com/2001-tech-odyssey-155835)
 
+# Passion Projects
+Contributing to my amazing wife Shirley Shor [new media art projects](https://www.instagram.com/explore/tags/shirleyshor/)
+
 
