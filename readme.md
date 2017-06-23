@@ -7,6 +7,10 @@ Entrepreneur and technologist. My passion is building consumer digital products 
 
 # Career Highlights
 
+## 2017-present
+ImmersiveOS
+Working on a new mixed reality platform powered by blockchain technology. [Project info](https://immersiveos.com)
+
 ## 2004-2006 - Co-founder and CTO, Grouper Networks / Crackle, San Francisco, CA
 Designed and built the first consumer-grade personal media sharing Windows desktop App for Grouper Networks in 2004. The App won PC Magazine editor's choice for best personal media PC App with 4.5/5 starts in 2005. The App allowed unlimited sharing of photos and personal videos between family, friends and other groups using an in-house developed peer-to-peer networking technology. The App provided an advanced user interface using early c#/.net and native windows apis technologies combined with a robust network services backend.
 
@@ -39,6 +43,5 @@ Designed and built what is now core HTML5 concepts in 1997 while working for Mic
 Pioneering social consumer web apps in 2000 in my San-Francisco based startup Friskit - built a full social music discovery, sharing, recommendation, search and playback web app that Newsweek named Streaming Napster and “one of the top 10 technologies that are going to change your life in 2001”. The web app provided users with a personalized streaming radio stations from artists and genres of music you liked and that your friend recommended. Friskit was the first Internet personalized radio app using web technologies. Advanced use of Java, scripting and html in early browsers combined with a C++ based streaming audio Internet search engine and collaborative-filtering based music recommendation system.
 
 * [2001:A Tech Odyssey - Newsweek](http://www.newsweek.com/2001-tech-odyssey-155835)
-
 
 
