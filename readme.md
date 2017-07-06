@@ -1,16 +1,18 @@
 # About Me
 Entrepreneur and technologist. My passion is building consumer digital products and services that are useful, innovative, easy to use and have a great user experience. I’m a universalist software designer that has a track-record building high-quality full-stack systems, native apps, server and backend stacks all the way from conception, design, project management to production and users growth with small teams and limited resources. I’ve been serving mainly in co-founder/cto roles in innovative startups where I always make hands-on product and technology contributions while also driving the higher-level strategic technology decisions, team building and growth, and IP. I started 2 successful consumer media startups in San Francisco and NY.
 
-* [Products Portfolio I](https://www.behance.net/aviveyal07926b)
-* [Products Portfolio II](https://avive.myportfolio.com) 
+* [Projects Portfolio I](https://www.behance.net/aviveyal07926b)
+* [Projects Portfolio II](https://avive.myportfolio.com) 
 * [LinkedIn Profile](https://www.linkedin.com/in/avive)
 * [Contact me](mailto:aviveyal07@gmail.com)
 
 # Career Highlights
 
 ## 2017-present
-ImmersiveOS
-Working on a new mixed reality platform powered by blockchain technology. [Project info](https://immersiveos.com)
+Consultant and Advisor
+* Advising projects on blockchain integration, value tokenization and distributed apps 
+* Building smart contracts and distributed apps MVPs 
+* Working on a new mixed reality platform powered by p2p and blockchain tech. [Project info](https://immersiveos.com)
 
 ## 2004-2006 - Co-founder and CTO, Grouper Networks / Crackle, San Francisco, CA
 Designed and built the first consumer-grade personal media sharing Windows desktop App for Grouper Networks in 2004. The App won PC Magazine editor's choice for best personal media PC App with 4.5/5 starts in 2005. The App allowed unlimited sharing of photos and personal videos between family, friends and other groups using an in-house developed peer-to-peer networking technology. The App provided an advanced user interface using early c#/.net and native windows apis technologies combined with a robust network services backend.
