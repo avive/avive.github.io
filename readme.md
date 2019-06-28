@@ -4,6 +4,7 @@ Entrepreneur and technologist. My passion is building consumer digital products 
 * [Projects Portfolio I](https://www.behance.net/aviveyal07926b)
 * [LinkedIn Profile](https://www.linkedin.com/in/avive)
 * [Contact me](mailto:aviveyal07@gmail.com)
+* [Mobile UX Design](https://www.youtube.com/user/djplayerapp)
 
 # Career Highlights
 
