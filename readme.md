@@ -5,10 +5,10 @@ I’ve been serving mainly in co-founder/cto roles in innovative startups where 
 
 I started two successful consumer media companies in San Francisco and NYC.
 
-* [Projects Portfolio I](https://www.behance.net/aviveyal07926b)
-* [LinkedIn Profile](https://www.linkedin.com/in/avive)
-* [Code](https://github.com/avive)
+* [Products Portfolio](https://www.behance.net/aviveyal07926b)
 * [Writtings](https://medium.com/@avive)
+* [Code](https://github.com/avive)
+* [LinkedIn Profile](https://www.linkedin.com/in/avive)
 
 # Career Highlights
 
