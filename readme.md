@@ -7,7 +7,6 @@ I started two successful consumer media companies in San Francisco and NYC.
 
 * [Projects Portfolio I](https://www.behance.net/aviveyal07926b)
 * [LinkedIn Profile](https://www.linkedin.com/in/avive)
-* [Mobile UX Design](https://www.youtube.com/user/djplayerapp)
 * [Code](https://github.com/avive)
 * [Writtings](https://medium.com/@avive)
 
