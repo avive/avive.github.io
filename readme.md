@@ -8,9 +8,9 @@ Entrepreneur and technologist. My passion is building consumer digital products 
 
 # Career Highlights
 
-## 2018
-Co-founder [Spacemesh.io](https://spacemesh.io)
-I'm working on a new free open source blockchain OS and a fair cryptocurrency. Actively working on growing the global team.
+## 2018 - Present
+Co-founder and Chief Product Officer [Spacemesh.io](https://spacemesh.io)
+I've been working on a new open source fair cryptocurrency and smart contracts platform.
 
 ## 2017
 Consultant and Advisor
@@ -37,7 +37,7 @@ Founded and built Musicsoft Arts - a nyc-based mobile music apps company in 2009
 
 * [Carl Cox App Demo Video](https://www.youtube.com/watch?v=B3Ea78js6BE)
 
-## 2014-Present - Co-founder and CTO, GONG! Inc, New York, NY
+## 2014-2016 - Co-founder and CTO, GONG! Inc, New York, NY
 Co-founded GONG! a nyc-based social news platform. Shipped 3 iterations of the main product which includes high-quality consumer native iOS Apps and a responsive news platform website available at [gongsters.com](https://gongsters.com)
 
 ## 1997-2000 - Software developer, Microsoft, Redmond, WA
