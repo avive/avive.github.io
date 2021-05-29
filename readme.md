@@ -52,4 +52,4 @@ Designed and built what is now core HTML5 concepts in 1997 while working for Mic
 # Contact
 * Email: [aviveyal07@gmail.com](mailto:aviveyal07@gmail.com)
 * Twitter: [@avive](https://twitter.com/avive)
-* Telegram: @aviveayl
+* Telegram: @aviveyal
