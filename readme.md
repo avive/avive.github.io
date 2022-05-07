@@ -1,5 +1,5 @@
 # About Me
-I’m an entrepreneur, software developer and digital products designer. My passion is building consumer digital products and services that are useful, innovative, easy-to-use and have a great user experience. 
+I’m a crypto first entrepreneur, coin founder, software developer and digital products designer. My passion is building consumer digital products and services that are useful, innovative, easy-to-use and have a great user experience. 
 
 I’ve been serving mainly in co-founder/cto roles in innovative startups where I always make hands-on product and technology contributions while also driving the higher-level strategic technology decisions, team building growth, and IP. 
 
@@ -46,8 +46,8 @@ Designed and built what is now core HTML5 concepts in 1997 while working for Mic
 
 # Passion Projects
 * [DJ Mixes](https://www.mixcloud.com/dj_fuzzy_logic/)
-- Software and tech close air support for my amazing wife Shirley Shor [new media art projects](https://www.instagram.com/explore/tags/shirleyshor/)
-- Shirley Shor [Art Token](https://shirleyshor.studio/)
+- Software and air support for [Shirley Shor Arts](https://www.instagram.com/explore/tags/shirleyshor/)
+- NFTs and [Art Tokens](https://shirleyshor.studio/) design
 
 # Contact
 * Email: [aviveyal07@gmail.com](mailto:aviveyal07@gmail.com)
