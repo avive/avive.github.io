@@ -1,5 +1,5 @@
 # About Me
-I’m a crypto first entrepreneur, coin founder, software developer and digital products designer. My passion is building consumer digital products and services that are useful, innovative, easy-to-use and have a great user experience. 
+I’m a crypto-first entrepreneur and person, coin founder [SMESH](https://spacemesh.io), software developer and digital products designer. My passion is building consumer digital products and services that are useful, innovative, easy-to-use and have a great user experience. 
 
 I’ve been serving mainly in co-founder/cto roles in innovative startups where I always make hands-on product and technology contributions while also driving the higher-level strategic technology decisions, team building growth, and IP. 
 
