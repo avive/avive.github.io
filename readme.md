@@ -11,9 +11,8 @@ Entrepreneurial technology leader with 25+ years of experience building innovati
 Funded and launched an [open-source cryptocurrency platform](https://github.com/karma-coin) promoting gratitude and community-driven economics.
 - Recruited and directed a global engineering team to deliver production-ready web and mobile apps
 - Designed an intuitive UX to make cryptocurrency accessible for non-technical users
-- Implemented social tipping and reward mechanisms to foster engagement
 - Attracted a community of thousands of early adopters through organic growth and grassroots outreach
-- Implemented tipping and community reward mechanisms to drive user engagement
+- Implemented social tipping and community reward mechanisms to drive user engagement
 - Designed, implemented and launched [Karmachain](https://github.com/karma-coin/karmachain), an app-specific blockchain in Rust
 
 <br/>
@@ -22,8 +21,8 @@ Funded and launched an [open-source cryptocurrency platform](https://github.com/
 Created, funded and led development of a decentralized, open-source social media protocol.
 - Designed network architecture and UX for the [Subnet mobile app](https://youtu.be/D04k6BlFowc?si=mRCOBtqw1E19jnu7)
 - Authored [full specifications](https://subnet.wtf/docs/) to guide community-led implementation
-- Built fully functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
-- Pioneered a user-sovereign model for identity and content ownership in social platforms- Built fully-functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
+- Pioneered a user-sovereign model for identity and content ownership in social platforms
+- Built fully-functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
   
 <br/>
 
@@ -72,8 +71,8 @@ Led innovation initiatives bringing user-generated video content to Sony hardwar
 Co-founded video sharing platform acquired by Sony for $65M after one year of operation.
 - Designed and built award-winning peer-to-peer media sharing application [PC Magazine Editor's Choice](https://uk.pcmag.com/software/25708/grouper-20-beta)
 - Developed large-scale user-generated video web application (now Crackle.com)
-- Initiated and implemented innovative growth hacking techniques that drove rapid user grow
-- Lead a successfull acquisition tech due-dilligence process
+- Initiated and implemented innovative growth hacking techniques that drove rapid user growth
+- Lead a successful acquisition tech due-dilligence process
 - Built and scaled engineering team to support explosive growth
 - Architected backend systems and video players that could handle millions of users
 - Designed and wrote a personal media sharing desktop app that attracted seed investment round
