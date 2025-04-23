@@ -5,8 +5,6 @@ Entrepreneurial technology leader with 25+ years of experience building innovati
 
 aviveyal07@gmail.com | [@avive](https://x.com/avive) on Twitter
 
----
-<br/>
 
 ## PROFESSIONAL EXPERIENCE
 
