@@ -1,5 +1,5 @@
 ## PROFESSIONAL SUMMARY
-Entrepreneurial technology leader with 25+ years of experience creating groundbreaking consumer digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Proven track record of launching user-friendly applications that scale to millions of users. Combines technical expertise with strategic vision in product development, team leadership, and sustainable growth.
+Entrepreneurial technology leader with 25+ years of experience creating groundbreaking consumer digital products. Serial founder with a successful $65M startup acquisition by Sony. Proven track record of launching user-friendly applications that scale to millions of users. Combines technical expertise with strategic vision in product development, team leadership, and sustainable growth.
 
 [Portfolio](https://www.behance.net/aviveyal07926b) | [Writtings](https://medium.com/@avive) | [Designs](https://www.figma.com/@avive) | [Code](https://github.com/avive) | [LinkedIn](https://www.linkedin.com/in/avive)  
 
