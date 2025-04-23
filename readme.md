@@ -9,7 +9,7 @@ Entrepreneurial technology leader with 25+ years of experience building innovati
 ## PROFESSIONAL EXPERIENCE
 
 ### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2022–2023
-Launched an [open-source cryptocurrency platform](https://github.com/karma-coin) promoting gratitude and community-driven economics.
+Funded and launched an [open-source cryptocurrency platform](https://github.com/karma-coin) promoting gratitude and community-driven economics.
 - Recruited and directed a global engineering team to deliver production-ready web and mobile apps
 - Designed an intuitive UX to make cryptocurrency accessible for non-technical users
 - Implemented social tipping and reward mechanisms to foster engagement
@@ -20,7 +20,7 @@ Launched an [open-source cryptocurrency platform](https://github.com/karma-coin)
 <br/>
 
 ### **Founder and Maintainer | [Subnet](https://subnet.wtf)** | Global Team | 2022
-Created and led development of a decentralized, open-source social media protocol.
+Created, funded and led development of a decentralized, open-source social media protocol.
 - Designed network architecture and UX for the Subnet mobile app
 - Authored [full specifications](https://subnet.wtf/docs/) to guide community-led implementation
 - Built fully functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
@@ -29,7 +29,7 @@ Created and led development of a decentralized, open-source social media protoco
 <br/>
 
 ### **Co-founder & Chief Product Officer | [Spacemesh](https://spacemesh.io)** | Global Team | 2017-2022
-Led product development for an open-source blockchain platform using innovative proofs-of-space-time consensus.
+Led product development for an [open-source blockchain platform](https://github.com/spacemeshos) using innovative proofs-of-space-time consensus.
 - Directed development of core platform and applications with focus on energy efficiency
 - Established product roadmap, feature prioritization, and UX vision
 - Authored key developer documentation to catalyze open-source adoption
