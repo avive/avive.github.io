@@ -1,4 +1,4 @@
-**Product & Technology Leader | Serial Entrepreneur | Consumer Digital Experiences Expert**
+# Product & Technology Leader | Serial Entrepreneur | Consumer Digital Experiences Expert
 
 [Portfolio](https://www.behance.net/aviveyal07926b)
 [Blog](https://medium.com/@avive)
