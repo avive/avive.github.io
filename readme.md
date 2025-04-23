@@ -98,14 +98,14 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 - Implemented animation, sound, and enhanced browser capabilities
 
 ---
-## 🛠️ SKILLS
+## SKILLS
 - **Leadership**: 🚀 Product Strategy, 🧑‍🤝‍🧑 Team Building, 🌍 Remote Management  
 - **Technical**: 🧱 Blockchain, 📱 Full-Stack, ☁️ Cloud, Mobile and web Apps  
 - **Product**: 🎨 UX Design, 🔍 User Research, 🔄 Rapid Prototyping  
 - **Business**: 📈 Growth Hacking, 💡 Startup Scaling, 🧠 IP Strategy
 
 ---
-## 🎨 PASSION PROJECTS
+## PASSION PROJECTS
 - 🎷 Produces electronic music and DJ sets as [DJ Fuzzy Logic](https://www.mixcloud.com/dj_fuzzy_logic/)
 - 🎨 Develops generative art software and NFTs for [Shirley Shor Arts](https://www.shirleyshorart.com/)
 - 🖼️ Curates and hosts digital art and NFT events such as [Team Human, NYC](https://www.tommyandyou.com/teamhuman/)
