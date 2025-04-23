@@ -81,6 +81,6 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 
 ## PASSION PROJECTS and HOBBIES
 - Electronic Dance Music Production & DJ Mixes as [DJ Fuzzy Lgoic](https://www.mixcloud.com/dj_fuzzy_logic/)
-- Generative Art Sooftware for [Shirley Shor Arts](https://www.shirleyshorart.com/)
-- [NFTs and Artist Tokens](https://www.tommyandyou.com/teamhuman/)
-- [Satoshi's Treasure global game](https://www.coindesk.com/tech/2019/04/15/satoshis-treasure-is-a-global-puzzle-with-a-1-million-bitcoin-prize) - game level design and produciton
+- Generative Art Software development and production, NFTs and artist tokens development [Shirley Shor Arts](https://www.shirleyshorart.com/)
+- Digital art and NFTs events production [Team Human, NYC](https://www.tommyandyou.com/teamhuman/)
+- Game level design and game produciton [Satoshi's Treasure Global Game](https://www.coindesk.com/tech/2019/04/15/satoshis-treasure-is-a-global-puzzle-with-a-1-million-bitcoin-prize)
