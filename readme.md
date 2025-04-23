@@ -3,11 +3,11 @@
 
 Entrepreneurial technology leader with 25+ years of experience building innovative digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Blends hands-on technical expertise with visionary leadership in product development and team growth. Now focused on driving innovation in Web3, AI, and creative tech.
 
-- [Portfolio](https://www.behance.net/aviveyal07926b) - A behance showcase of some of the apps I've built.
+- [Portfolio](https://www.behance.net/aviveyal07926b) - A behance showcase of some of the apps I've built 
 - [Blog](https://medium.com/@avive)
 - [Designs](https://www.figma.com/@avive) - Product design work on Figma
 - [Code](https://github.com/avive) - Open source projects on github
-- [LinkedIn](https://www.linkedin.com/in/avive)  
+- [LinkedIn](https://www.linkedin.com/in/avive) - Professional profile
 
 
 ## PROFESSIONAL EXPERIENCE
