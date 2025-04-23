@@ -12,11 +12,14 @@ I've started two successful consumer software companies in San Francisco and NYC
 
 # Career Highlights
 
-## Co-founder and Chief Product Officer [Spacemesh.io](https://spacemesh.io), Global Team, 2018 - 2024
+## Founder and CEO, Karma Coin, Distributed Team, 2022-2023
+Karma Coin is an easy-to-use cryptocurrency and app designed for appreciation, tipping and communities. Built the team and launched the app for web and mobile platforms.
+
+## Co-founder and Chief Product Officer [Spacemesh.io](https://spacemesh.io), Global Team, 2017-2022
 Spacemesh is an open-source blockchain platform that uses an advanced proofs-of-space-time consensus technology which provides high-secuity without massive energy waste.
 Lead product and platform apps development.
 
-## Co-founder and CTO, Gong, Inc, New York, NY, 2015-2017
+## Co-founder and CTO, Gong, Inc, New York, NY, 2014-2017
 Gong is an ai-drivven news aggregator mobile app designed to solve the problem of fake news.
 Built the team, developed and launched the full mobile platform for web, Android and iOS.
 
