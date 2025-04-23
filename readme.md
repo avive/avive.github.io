@@ -25,7 +25,7 @@ Led product development for an open-source blockchain platform using innovative 
 - Established product roadmap, feature prioritization, and UX vision
 - Built and managed remote teams across multiple time zones for effective delivery
 - Created developer tools and documentation to support ecosystem growth
-- Created succesfull open source blockchain community tech workshops and events. [WA on the blockchain](https://avive.github.io/wasm_on_the_blockchain/)
+- Created succesfull open source blockchain and web3 community technical workshops and events. [WA on the blockchain 2019](https://avive.github.io/wasm_on_the_blockchain/) and [WA 💜 WEB3 2021](https://avive.github.io/wasm_on_the_blockchain_2021)
 
 ### **Co-founder & CTO | Gong, Inc.** | New York, NY | 2014-2017
 Founded AI-driven news aggregation platform to combat misinformation.
