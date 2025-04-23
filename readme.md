@@ -3,9 +3,6 @@ Entrepreneurial technology leader with 25+ years of experience creating groundbr
 
 [Portfolio](https://www.behance.net/aviveyal07926b) | [Writtings](https://medium.com/@avive) | [Designs](https://www.figma.com/@avive) | [Code](https://github.com/avive) | [LinkedIn](https://www.linkedin.com/in/avive)  
 
-
----
-
 ## PROFESSIONAL EXPERIENCE
 
 ### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2022-2023
