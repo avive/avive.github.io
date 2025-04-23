@@ -11,12 +11,14 @@ Founded and led development of an accessible open source cryptocurrency platform
 - Designed intuitive UX resulting in 40% higher retention compared to industry average for crypto products
 - Implemented tipping and community reward mechanisms driving weekly active user engagement
 
+<br/>
 ### **Founder and Maintainer | [Subnet](https://subnet.wtf)** | Global Team | 2022
 Conceived, prototyped and led a decentralized, open-source social media platform.
 - Designed the network architecture and mobile app UX
 - Authored comprehensive [technical specifications](https://subnet.wtf/docs/)
 - Implemented functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
 
+<br/>
 ### **Co-founder & Chief Product Officer | [Spacemesh](https://spacemesh.io)** | Global Team | 2017-2022
 Led product development for an open-source blockchain platform using innovative proofs-of-space-time consensus protocol.
 - Directed development of core platform and applications, reducing energy consumption by 95% compared to legacy blockchain technology
@@ -26,6 +28,7 @@ Led product development for an open-source blockchain platform using innovative 
 - Created developer tools and documentation supporting 15+ ecosystem projects
 - Organized successful blockchain technical workshops including [WA on the Blockchain 2019](https://avive.github.io/wasm_on_the_blockchain/) and [WA 💜 WEB3 2021](https://avive.github.io/wasm_on_the_blockchain_2021)
 
+<br/>
 ### **Co-founder & CTO | Gong, Inc.** | New York, NY | 2014-2017
 Founded a news aggregation platform to combat misinformation and solve the fake news problem
 - Architected and built full-stack mobile platform across web, iOS, and Android
@@ -33,6 +36,7 @@ Founded a news aggregation platform to combat misinformation and solve the fake 
 - Led technical team of 8 through product development, testing, and market launch
 - Designed scalable infrastructure processing 10,000+ news articles daily
 
+<br/>
 ### **Founder and Owner | Musicsoft Arts LLC** | New York, NY | 2009-2014
 Founded and lef a mobile music software company to 25M installs and profitability within one year.
 - Created 10 innovative music applications, including the first music mixing apps for iPhone and iPad
@@ -41,6 +45,7 @@ Founded and lef a mobile music software company to 25M installs and profitabilit
 - Developed branded applications for major artists and companies (Carl Cox, DJ Spooky, Vibe magazine, Moet Hnessy, Hundai and Thievery Corporation)
 - Conceptualized and built the world's first music album released as a mobile app, featured by Apple
 
+<br/>
 ### **VP, Technology | Sony** | San Francisco, CA | 2006-2008
 Led innovation initiatives bringing user-generated video content to Sony hardware devices.
 - Built the first Internet video applications for PlayStation platforms, reaching 3M+ monthly active users
@@ -49,6 +54,7 @@ Led innovation initiatives bringing user-generated video content to Sony hardwar
 - Initiated early cloud-based personal media hosting service adopted by Sony product lines
 - Collaborated with global Sony teams to integrate internet capabilities into consumer electronics
 
+<br/>
 ### **Co-founder & CTO | Grouper Networks/Crackle** | San Francisco, CA | 2004-2006
 Co-founded video sharing platform acquired by Sony for $65M after one year of operation
 - Designed and built award-winning peer-to-peer media sharing application (PC Magazine Editor's Choice)
@@ -57,6 +63,7 @@ Co-founded video sharing platform acquired by Sony for $65M after one year of op
 - Built and scaled engineering team from 3 to 25 to support explosive growth
 - Architected backend systems handling 250,000+ daily video views
 
+<br/>
 ### **Co-founder & CTO | Friskit, Inc.** | San Francisco, CA | 2000-2004
 Created pioneering social music discovery platform named by Newsweek as "one of the top 10 technologies that will change your life."
 - Built first internet personalized radio application using web technologies, reaching 500,000+ users
@@ -64,6 +71,7 @@ Created pioneering social music discovery platform named by Newsweek as "one of 
 - Created streaming audio internet search engine indexing 3M+ songs
 - Designed innovative user interface increasing average session duration by 4x
 
+<br/>
 ### **Software Developer | Microsoft** | Redmond, WA | 1997-2000
 Contributed to core HTML5 concepts and multimedia technologies for Internet Explorer and Office
 - Enhanced Internet Explorer multimedia capabilities using Java, C++, and scripting
