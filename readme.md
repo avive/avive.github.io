@@ -84,6 +84,6 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 ---
 
 ## PASSION PROJECTS
-- **Digital Art & Music**: Electronic music production as [DJ Fuzzy Logic](https://www.mixcloud.com/dj_fuzzy_logic/), generative art software development for [Shirley Shor Arts](https://www.shirleyshorart.com/)
-- **Web3 Community Building**: Digital art NFT events production [Team Human, NYC](https://www.tommyandyou.com/teamhuman/)
+- **Digital Art & Music**: Electronic music production as [DJ Fuzzy Logic](https://www.mixcloud.com/dj_fuzzy_logic/), generative art software and artist token development for [Shirley Shor Arts](https://www.shirleyshorart.com/)
+- **Web3 Community Building**: Digital art and NFT events production [Team Human, NYC](https://www.tommyandyou.com/teamhuman/)
 - **Interactive Gaming**: Global treasure hunt game design for [Satoshi's Treasure](https://www.coindesk.com/tech/2019/04/15/satoshis-treasure-is-a-global-puzzle-with-a-1-million-bitcoin-prize) with 100,000+ participants
