@@ -73,7 +73,7 @@ Led innovation initiatives bringing user-generated video content to Sony hardwar
 Co-founded video sharing platform acquired by Sony for $65M after one year of operation.
 - Designed and built award-winning peer-to-peer media sharing application [PC Magazine Editor's Choice](https://uk.pcmag.com/software/25708/grouper-20-beta)
 - Developed large-scale user-generated video web application (now Crackle.com)
-- Implemented growth hacking techniques that drove rapid user acquisition
+- Initiated and implemented innovative growth hacking techniques that drove rapid user grow
 - Lead a successfull acquisition tech due-dilligence process
 - Built and scaled engineering team to support explosive growth
 - Architected backend systems and video players that could handle millions of users
