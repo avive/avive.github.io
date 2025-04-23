@@ -16,6 +16,14 @@ Led development of an accessible open sourcew cryptocurrency platform focused on
 - Implemented tipping and community reward mechanisms to drive user engagement
 
 <br/>
+
+### **Founder and Mainterinar | Subnet Open Source Project | 2022
+Led [Subnet](https://subnet.wtf), a decentralized, open-source social media platfrom.
+- Designed the network architecture
+- Wrote [full specifications](https://subnet.wtf/docs/)
+- Implemented functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
+  
+<br/>
 ### **Co-founder & Chief Product Officer | Spacemesh** | Global Team | 2017-2022
 Led product development for an open-source blockchain platform using innovative proofs-of-space-time consensus.
 - Directed development of core platform and applications with focus on energy efficiency
