@@ -9,12 +9,13 @@ Entrepreneurial technology leader with 25+ years of experience building innovati
 ## PROFESSIONAL EXPERIENCE
 
 ### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2022–2023
-Launched an open-source cryptocurrency platform promoting gratitude and community-driven economics.
+Launched an [open-source cryptocurrency platform](https://github.com/karma-coin) promoting gratitude and community-driven economics.
 - Recruited and directed a global engineering team to deliver production-ready web and mobile apps
 - Designed an intuitive UX to make cryptocurrency accessible for non-technical users
 - Implemented social tipping and reward mechanisms to foster engagement
 - Attracted a community of thousands of early adopters through organic growth and grassroots outreach
 - Implemented tipping and community reward mechanisms to drive user engagement
+- Designed, implemented and launched [Karmachain](https://github.com/karma-coin/karmachain), an app-specific blockchain in Rust
 
 <br/>
 
