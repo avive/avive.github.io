@@ -19,7 +19,7 @@ Funded and launched an [open-source cryptocurrency platform](https://github.com/
 
 <br/>
 
-### **Founder and Maintainer | [Subnet](https://subnet.wtf)** | Global Team | 2022
+### **Founder & Maintainer | [Subnet](https://subnet.wtf)** | Global Team | 2022
 Created, funded and led development of a decentralized, open-source social media protocol.
 - Designed network architecture and UX for the Subnet mobile app
 - Authored [full specifications](https://subnet.wtf/docs/) to guide community-led implementation
