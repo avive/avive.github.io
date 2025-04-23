@@ -19,7 +19,7 @@ Led development of an accessible open sourcew cryptocurrency platform focused on
 
 ### **Founder and Mainterinar** | [Subnet](https://subnet.wtf) | Global Team | 2022
 Conciebed, prototyped and lead a decentralized, open-source social media platfrom
-- Designed the network architecture
+- Designed the network architecture and the Subnet mobile app UX
 - Wrote [full specifications](https://subnet.wtf/docs/)
 - Implemented functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
   
