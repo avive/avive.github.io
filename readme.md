@@ -29,6 +29,7 @@ Led product development for an open-source blockchain platform using innovative 
 - Directed development of core platform and applications with focus on energy efficiency
 - Established product roadmap, feature prioritization, and UX vision
 - Built and managed remote teams across multiple time zones for effective delivery
+- Designed, lead development and launched the project's [dashboard](https://dash.spacemesh.io/) and [explorer](https://explorer.spacemesh.io/overview) apps.
 - Created developer tools and documentation to support ecosystem growth
 - Created succesfull open source blockchain and web3 community technical workshops and events. [WA on the blockchain 2019](https://avive.github.io/wasm_on_the_blockchain/) and [WA 💜 WEB3 2021](https://avive.github.io/wasm_on_the_blockchain_2021)
 
