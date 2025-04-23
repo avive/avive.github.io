@@ -90,7 +90,7 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 - **Business**: Growth Hacking, Freemium Models, IP Development, Startup Scaling
 
 ---
-## PASSION PROJECTS and HOBBIES
+## PASSION PROJECTS
 - Electronic Dance Music Production & DJ Mixes as [DJ Fuzzy Lgoic](https://www.mixcloud.com/dj_fuzzy_logic/)
 - Generative Art Software development and production, NFTs and artist tokens development [Shirley Shor Arts](https://www.shirleyshorart.com/)
 - Digital art and NFTs events production [Team Human, NYC](https://www.tommyandyou.com/teamhuman/)
