@@ -1,4 +1,4 @@
-## Product & Technology Leader
+## Product Leader
 
 [Portfolio](https://www.behance.net/aviveyal07926b) | [Blog](https://medium.com/@avive) | [Figma](https://www.figma.com/@avive) | [Code](https://github.com/avive) | [LinkedIn](https://www.linkedin.com/in/avive)
 
