@@ -49,7 +49,10 @@ Led product development for an [open-source blockchain platform](https://github.
 - Raised $18M in 2 funding rounds from prominent blockchain investors
 <br/>
 
-### **Co-founder & CTO | Gong, Inc.** | New York, NY | 2014-2017
+### Mobile Tech Consultant, New York, NY, 2016
+Designed and built a mobile native advertising sdk for [Yieldmo](https://yieldmo.com/).
+
+### **Co-founder & CTO | Gong, Inc.** | New York, NY | 2014-2016
 Founded AI-driven news aggregation platform to combat misinformation.
 - Architected and built full-stack mobile platform across web, iOS, and Android
 - Implemented machine learning algorithms for content categorization and verification
