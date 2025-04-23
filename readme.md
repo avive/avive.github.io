@@ -74,14 +74,15 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 ---
 
 ## SKILLS
-- **Leadership**: Product Strategy, Team Building, Vision & Execution, Remote Teams Agile Management
-- **Technical**: Full-Stack Development, Blockchain, Mobile Applications, Cloud Architecture
-- **Product**: UX/UI Design, User Research, Product Roadmapping, Feature Prioritization
+- **Leadership**: Product Strategy and Development, Team Building, Vision & Execution, Remote Teams  Management
+- **Technical**: Full-Stack, Blockchain, advanced Mobile and Web Applications, Cloud Architecture
+- **Product**: UX/UI Design, Users Research, Product Roadmapping, Usability Testing, Iterative development, Rapid Prototyping
 - **Business**: Growth Hacking, Freemium Models, IP Development, Startup Scaling
 
 ---
 
-## PASSION PROJECTS
-- Electronic Dance Music Production & DJ Mixes as DJ fyzzy Logic: [Mixcloud](https://www.mixcloud.com/dj_fuzzy_logic/)
-- Software Support for [Shirley Shor Arts](https://www.shirleyshorart.com/)
-- NFTs and [Art Tokens]([https://shirleyshor.studio/](https://www.tommyandyou.com/teamhuman/)) Design
+## PASSION PROJECTS and HOBBIES
+- Electronic Dance Music Production & DJ Mixes as [DJ Fuzzy Lgoic](https://www.mixcloud.com/dj_fuzzy_logic/)
+- Generative Art Sooftware for [Shirley Shor Arts](https://www.shirleyshorart.com/)
+- [NFTs and Artist Tokens](https://www.tommyandyou.com/teamhuman/)
+- [Satoshi's Treasure global game](https://www.coindesk.com/tech/2019/04/15/satoshis-treasure-is-a-global-puzzle-with-a-1-million-bitcoin-prize) - game level design and produciton
