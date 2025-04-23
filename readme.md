@@ -37,7 +37,7 @@ Led product development for an open-source blockchain platform using innovative 
 - Designed, led development and launched the project's [dashboard](https://dash.spacemesh.io/) and [explorer](https://explorer.spacemesh.io/overview) apps.
 - Created developer tools and documentation to support ecosystem growth
 - Created successful open source blockchain and web3 community technical workshops and events. [WA on the blockchain 2019](https://avive.github.io/wasm_on_the_blockchain/) and [WA 💜 WEB3 2021](https://avive.github.io/wasm_on_the_blockchain_2021)
-
+- Raised $18M in 2 funding rounds from prominent blockchain investors
 <br/>
 
 ### **Co-founder & CTO | Gong, Inc.** | New York, NY | 2014-2017
@@ -77,6 +77,7 @@ Co-founded video sharing platform acquired by Sony for $65M after one year of op
 - Lead a successfull acquisition tech due-dilligence process
 - Built and scaled engineering team to support explosive growth
 - Architected backend systems and video players that could handle millions of users
+- Raised $10M round a from prominent Silicon Valley investors
 
 <br/>
 
@@ -86,6 +87,8 @@ Created pioneering social music discovery platform named by Newsweek as [one of 
 - Developed collaborative filtering-based music recommendation system
 - Created streaming audio internet search engine using C++
 - Designed innovative user interface for music discovery and sharing
+- Hired and led music editorial team
+- Raised $1M seed round from prominent Silicon Valley investors
 
 <br/>
 
