@@ -113,7 +113,7 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 - **Technical**: 🧱 Blockchain, 📱 Full-Stack, ☁️ Cloud, Mobile and web Apps  
 - **Product**: 🎨 UX Design, 🔍 User Research, 🔄 Rapid Prototyping  
 - **Business**: 📈 Growth Hacking, 💡 Startup Scaling
-- **Software**: Rust, Go, Dart, Flutter, React, Swift
+- **Software**: Rust, Dart, Flutter, Swift, Go, React
 
 ---
 ## PASSION PROJECTS
