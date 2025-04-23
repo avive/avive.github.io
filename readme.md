@@ -102,7 +102,7 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 ---
 ## 🛠️ SKILLS
 - **Leadership**: 🚀 Product Strategy, 🧑‍🤝‍🧑 Team Building, 🌍 Remote Management  
-- **Technical**: 🧱 Blockchain, 📱 Full-Stack Dev, ☁️ Cloud Architecture  
+- **Technical**: 🧱 Blockchain, 📱 Full-Stack, ☁️ Cloud, Mobile and web Apps  
 - **Product**: 🎨 UX Design, 🔍 User Research, 🔄 Rapid Prototyping  
 - **Business**: 📈 Growth Hacking, 💡 Startup Scaling, 🧠 IP Strategy
 
