@@ -1,7 +1,7 @@
 # About Me
-I’ve building software products from early age for over 25 years. My passion is building consumer digital products and services that are useful, innovative, easy-to-use and prodide a great user experience. 
+I’ve building software products from early age for over 25 years. My passion is launching and growing consumer digital products and services that are useful, innovative, easy-to-use and prodide a great user-experience. 
 
-I’ve been serving mainly in co-founder/cto/cpo roles in innovative startups where I always like making hands-on product and technology contributions while also driving the higher-level strategic technology and product decisions, remote and local team building, users growth, and IP. 
+I’ve been serving mainly in co-founder/cto/cpo roles in innovative startups where I always like making hands-on product and software contributions while also driving the higher-level strategic technology and product decisions, remote and local team building, users growth, and IP. 
 
 I've started two successful consumer software companies in San Francisco and NYC.
 
@@ -12,11 +12,11 @@ I've started two successful consumer software companies in San Francisco and NYC
 
 # Career Highlights
 
-## Co-founder and Chief Product Officer [Spacemesh.io](https://spacemesh.io), Distributed Team, 2018 - 2024
+## Co-founder and Chief Product Officer [Spacemesh.io](https://spacemesh.io), Global Team, 2018 - 2024
 Spacemesh is an open-source blockchain platform that uses an advanced proofs-of-space-time consensus technology which provides high-secuity without massive energy waste.
 Lead product and platform apps development.
 
-## Co-founder and CTO, Gong, New York, 2015-2017
+## Co-founder and CTO, Gong, Inc, New York, NY, 2015-2017
 Gong is an ai-drivven news aggregator mobile app designed to solve the problem of fake news.
 Built the team, developed and launched the full mobile platform for web, Android and iOS.
 
