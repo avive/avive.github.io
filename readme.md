@@ -14,6 +14,7 @@ Entrepreneurial technology leader with 25+ years of experience building innovati
 🔗 [LinkedIn](https://www.linkedin.com/in/avive): Professional profile
 <br/>
 
+---
 
 ## PROFESSIONAL EXPERIENCE
 
