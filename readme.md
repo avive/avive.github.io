@@ -18,7 +18,7 @@ Entrepreneurial technology leader with 25+ years of experience building innovati
 
 ## PROFESSIONAL EXPERIENCE
 
-### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2022–2023
+### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2023–2024
 Funded and launched an [open-source cryptocurrency platform](https://github.com/karma-coin) promoting gratitude and community-driven economics.
 - Recruited and directed a global engineering team to deliver production-ready web and mobile apps
 - Designed an intuitive UX to make cryptocurrency accessible for non-technical users
@@ -28,7 +28,7 @@ Funded and launched an [open-source cryptocurrency platform](https://github.com/
 
 <br/>
 
-### **Founder & Maintainer | [Subnet](https://subnet.wtf)** | Global Team | 2022
+### **Founder & Maintainer | [Subnet](https://subnet.wtf)** | Global Team | 2022-2023
 Created, funded and led development of a decentralized, open-source social media protocol.
 - Designed network architecture and UX for the [Subnet mobile app](https://youtu.be/D04k6BlFowc?si=mRCOBtqw1E19jnu7)
 - Authored [full specifications](https://subnet.wtf/docs/) to guide community-led implementation
