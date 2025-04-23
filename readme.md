@@ -1,9 +1,9 @@
 # About Me
-I’m a crypto-first entrepreneur and person, coin founder [SMESH](https://spacemesh.io), software developer and digital products designer. My passion is building consumer digital products and services that are useful, innovative, easy-to-use and have a great user experience. 
+I’ve building software products from early age for over 25 years. My passion is building consumer digital products and services that are useful, innovative, easy-to-use and prodide a great user experience. 
 
-I’ve been serving mainly in co-founder/cto roles in innovative startups where I always make hands-on product and technology contributions while also driving the higher-level strategic technology decisions, team building growth, and IP. 
+I’ve been serving mainly in co-founder/cto/cpo roles in innovative startups where I always like making hands-on product and technology contributions while also driving the higher-level strategic technology and product decisions, team building, users growth, and IP. 
 
-I started two successful consumer media companies in San Francisco and NYC.
+I've started two successful consumer software companies in San Francisco and NYC.
 
 * [Products Portfolio](https://www.behance.net/aviveyal07926b)
 * [Writtings](https://medium.com/@avive)
@@ -12,8 +12,8 @@ I started two successful consumer media companies in San Francisco and NYC.
 
 # Career Highlights
 
-## Co-founder and Chief Product Officer [Spacemesh.io](https://spacemesh.io), 2018 - Present
-I'm working on a new open source fair crypto-currency and smart contracts platform.
+## Co-founder and Chief Product Officer [Spacemesh.io](https://spacemesh.io), 2018 - 2024
+Spacemesh is an open source blockchain platform that uses an advanced proofs-of-space-time consensus technology which provides high-secuity without massive energy waste.
 
 ## Owner, Musicsoft Arts LLC, New York, NY, 2009-2014
 Founded and built Musicsoft Arts - a nyc-based mobile music apps company in 2009. Released 10 innovative music apps including the first music mixing app for iPhones and iPad. Grew the company to 25 million total app installs and profitability within a year of operations utilizing a great product, sales and engineering team and without any external investment. The apps were top-charting the App Store music apps category globally throughout the company life. Pioneered mobile native advertising and freemium business models on mobile platforms. This includes native premium app functionality and music content sponsorships from major artists and brands such as Hyundai, Moet Hennessy and Ford. Built the official mobile app for major music artists and DJs such as Carl Cox and DJ Spooky. I’ve conceptualized and built the world’s first music album by a major recording artist released as an exclusive mobile App for smartphones and tablets using a freemium business model. Built the official Vibe magazine iOS app with exclusive hip-hop music content. Designed and built a successful app that allows users to play a music videos channel based on their iTunes music library content.
