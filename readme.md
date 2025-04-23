@@ -57,16 +57,17 @@ Led innovation initiatives bringing user-generated video content to Sony hardwar
 <br/>
 ### **Co-founder & CTO | Grouper Networks/Crackle** | San Francisco, CA | 2004-2006
 Co-founded video sharing platform acquired by Sony for $65M after one year of operation
+- Raised $10M+ venture capital A round
 - Designed and built award-winning peer-to-peer media sharing application (PC Magazine Editor's Choice)
 - Developed large-scale user-generated video web application scaling to 2M+ users
-- Implemented growth hacking techniques driving 300% monthly user acquisition
+- Designed and implemented growth hacking techniques driving 300% monthly user acquisition
 - Built and scaled engineering team from 3 to 25 to support explosive growth
 - Architected backend systems handling 250,000+ daily video views
 
 <br/>
 ### **Co-founder & CTO | Friskit, Inc.** | San Francisco, CA | 2000-2004
 Created pioneering social music discovery platform named by Newsweek as "one of the top 10 technologies that will change your life."
-- Built first internet personalized radio application using web technologies, reaching 500,000+ users
+- Built first internet personalized radio application using web technologies, reaching 100,000+ users
 - Developed collaborative filtering-based recommendation system with 92% accuracy
 - Created streaming audio internet search engine indexing 3M+ songs
 - Designed innovative user interface increasing average session duration by 4x
