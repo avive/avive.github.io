@@ -1,8 +1,7 @@
 # AVIV EYAL
 **Product & Technology Leader | Serial Entrepreneur | Consumer Digital Experiences Expert**
 
-[LinkedIn](https://www.linkedin.com/in/avive) | [GitHub](https://github.com/avive) | [Portfolio](https://www.behance.net/aviveyal07926b) | [Blog](https://medium.com/@avive)  
- | [Figma](https://www.figma.com/@avive) | Email: aviveyal07@gmail.com | Twitter/X: [@avive](https://x.com/avive) | Tgram: @aviveyal
+[LinkedIn](https://www.linkedin.com/in/avive) | [Portfolio](https://www.behance.net/aviveyal07926b) | [Blog](https://medium.com/@avive) | [Figma designs](https://www.figma.com/@avive) | [Code](https://github.com/avive) | Email: aviveyal07@gmail.com | Twitter/X: [@avive](https://x.com/avive) | Tgram: @aviveyal
 
 ---
 ## PROFESSIONAL SUMMARY
