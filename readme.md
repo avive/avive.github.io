@@ -1,14 +1,9 @@
-## Product Leader
+## PROFESSIONAL SUMMARY
+Entrepreneurial technology leader with 25+ years of experience building innovative consumer digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Combines hands-on technical contributions with strategic leadership in product development, team building, and IP creation.
 
 [Portfolio](https://www.behance.net/aviveyal07926b) | [Blog](https://medium.com/@avive) | [Figma](https://www.figma.com/@avive) | [Code](https://github.com/avive) | [LinkedIn](https://www.linkedin.com/in/avive)
 
 aviveyal07@gmail.com | [@avive](https://x.com/avive) on Twitter
-
-
----
-<br/>
-## PROFESSIONAL SUMMARY
-Entrepreneurial technology leader with 25+ years of experience building innovative consumer digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Combines hands-on technical contributions with strategic leadership in product development, team building, and IP creation.
 
 ---
 <br/>
