@@ -9,7 +9,7 @@ aviveyal07@gmail.com | [@avive](https://x.com/avive) on Twitter
 
 ## PROFESSIONAL EXPERIENCE
 
-### **Founder & CEO | Karma Coin** | Global Team | 2022-2023
+### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2022-2023
 Led development of an accessible open sourcew cryptocurrency platform focused on appreciation and community engagement.
 - Built and led distributed engineering team to launch web and mobile applications
 - Designed intuitive UX to make cryptocurrency accessible to non-technical users
@@ -24,7 +24,7 @@ Conciebed, prototyped and lead a decentralized, open-source social media platfro
 - Implemented functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
   
 <br/>
-### **Co-founder & Chief Product Officer | Spacemesh** | Global Team | 2017-2022
+### **Co-founder & Chief Product Officer | [Spacemesh](https://spacemesh.io)** | Global Team | 2017-2022
 Led product development for an open-source blockchain platform using innovative proofs-of-space-time consensus.
 - Directed development of core platform and applications with focus on energy efficiency
 - Established product roadmap, feature prioritization, and UX vision
