@@ -2,7 +2,7 @@
 **Product & Technology Leader | Serial Entrepreneur | Consumer Digital Experience Expert**
 
 [LinkedIn](https://www.linkedin.com/in/avive) | [GitHub](https://github.com/avive) | [Portfolio](https://www.behance.net/aviveyal07926b) | [Blog](https://medium.com/@avive)  
-Email: aviveyal07@gmail.com | Twitter: @avive | Tgram: @aviveyal
+Email: aviveyal07@gmail.com | Twitter/X: [@avive](https://x.com/avive) | Tgram: @aviveyal
 
 ---
 ## PROFESSIONAL SUMMARY
