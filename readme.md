@@ -115,8 +115,8 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 
 ---
 ## PASSION PROJECTS
-- 🎷 Produces electronic music and DJ sets as [DJ Fuzzy Logic](https://www.mixcloud.com/dj_fuzzy_logic/)
-- 🎨 Develops generative art software and NFTs for [Shirley Shor Arts](https://www.shirleyshorart.com/)
-- 🖼️ Curates and hosts digital art and NFT events such as [Team Human, NYC](https://www.tommyandyou.com/teamhuman/)
-- 🌍 Designs real-world game levels for [Satoshi's Treasure](https://www.coindesk.com/tech/2019/04/15/satoshis-treasure-is-a-global-puzzle-with-a-1-million-bitcoin-prize)
+- 🎷 Electronic music production and music mixes as [DJ Fuzzy Logic](https://www.mixcloud.com/dj_fuzzy_logic/)
+- 🎨 Generative art custom software, NFTs and artist tokenization for [Shirley Shor Arts](https://www.shirleyshorart.com/)
+- 🖼️ Digital art and NFT events production [Team Human, NYC](https://www.tommyandyou.com/teamhuman/)
+- 🌍 Real-world game level design and production for [Satoshi's Treasure](https://www.coindesk.com/tech/2019/04/15/satoshis-treasure-is-a-global-puzzle-with-a-1-million-bitcoin-prize)
 
