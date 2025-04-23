@@ -14,7 +14,7 @@ Entrepreneurial technology leader with 25+ years of experience building innovati
 ## PROFESSIONAL EXPERIENCE
 
 ### **Founder & CEO | Karma Coin** | Global Team | 2022-2023
-Led development of an accessible cryptocurrency platform focused on appreciation and community engagement.
+Led development of an accessible open sourcew cryptocurrency platform focused on appreciation and community engagement.
 - Built and led distributed engineering team to launch web and mobile applications
 - Designed intuitive UX to make cryptocurrency accessible to non-technical users
 - Implemented tipping and community reward mechanisms to drive user engagement
