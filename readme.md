@@ -1,5 +1,5 @@
 ## PROFESSIONAL SUMMARY
-Entrepreneurial technology leader with 25+ years of experience building innovative consumer digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Combines hands-on technical contributions with strategic leadership in product development, team building, and growth.
+Entrepreneurial technology leader with 25+ years of experience building innovative consumer digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Blends hands-on technical expertise with visionary leadership in product development and team growth.
 
 [Portfolio](https://www.behance.net/aviveyal07926b) | [Blog](https://medium.com/@avive) | [Figma](https://www.figma.com/@avive) | [Code](https://github.com/avive) | [LinkedIn](https://www.linkedin.com/in/avive)
 <br/> 
@@ -10,7 +10,7 @@ aviveyal07@gmail.com | [@avive](https://x.com/avive) on Twitter
 ## PROFESSIONAL EXPERIENCE
 
 ### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2022-2023
-Led development of an accessible open source cryptocurrency platform focused on appreciation and community engagement.
+Launched an open-source blockchain platform and a crypto-currency focused on appreciation and community engagement.
 - Built and led distributed engineering team to launch web and mobile applications
 - Designed intuitive UX to make cryptocurrency accessible to non-technical users
 - Implemented tipping and community reward mechanisms to drive user engagement
@@ -21,7 +21,7 @@ Led development of an accessible open source cryptocurrency platform focused on 
 Conceived, prototyped and led a decentralized, open-source social media platform
 - Designed the network architecture and the Subnet mobile app UX
 - Wrote [full specifications](https://subnet.wtf/docs/)
-- Implemented functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
+- Built fully-functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
   
 <br/>
 
@@ -29,6 +29,7 @@ Conceived, prototyped and led a decentralized, open-source social media platform
 Led product development for an open-source blockchain platform using innovative proofs-of-space-time consensus.
 - Directed development of core platform and applications with focus on energy efficiency
 - Established product roadmap, feature prioritization, and UX vision
+- Authored key developer documentation to catalyze open-source adoption
 - Built and managed remote teams across multiple time zones for effective delivery
 - Designed, led development and launched the project's [dashboard](https://dash.spacemesh.io/) and [explorer](https://explorer.spacemesh.io/overview) apps.
 - Created developer tools and documentation to support ecosystem growth
@@ -46,9 +47,9 @@ Founded AI-driven news aggregation platform to combat misinformation.
 <br/>
 
 ### **Founder | Musicsoft Arts LLC** | New York, NY | 2009-2014
-Founded and grew a mobile music application company to 25M installs and profitability within one year.
+Grew a mobile music application company to 25M installs and profitability within one year
 - Created 10 innovative music applications, including the first music mixing apps for iPhone and iPad
-- Achieved top rankings in App Store music category globally without external funding
+- Achieved top rankings in App Store music category globally and $1M+ ARR without external funding
 - Pioneered mobile native advertising and freemium business models
 - Developed branded applications for major artists and companies (Carl Cox, DJ Spooky, Vibe magazine)
 - Conceptualized and built the world's first music album released as a mobile app
@@ -70,6 +71,7 @@ Co-founded video sharing platform acquired by Sony for $65M after one year of op
 - Designed and built award-winning peer-to-peer media sharing application (PC Magazine Editor's Choice)
 - Developed large-scale user-generated video web application (now Crackle.com)
 - Implemented growth hacking techniques that drove rapid user acquisition
+- Lead a successfull acquisition tech due-dilligence process
 - Built and scaled engineering team to support explosive growth
 - Architected backend systems and video players that could handle millions of users
 
@@ -91,15 +93,16 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 - Implemented animation, sound, and enhanced browser capabilities
 
 ---
-## SKILLS
-- **Leadership**: Product Strategy and Development, Team Building, Vision & Execution, Remote Teams Management
-- **Technical**: Full-Stack, Blockchain, advanced Mobile and Web Applications, Cloud Architecture
-- **Product**: UX/UI Design, User Research, Product Roadmapping, Usability Testing, Iterative development, Rapid Prototyping
-- **Business**: Growth Hacking, Freemium Models, IP Development, Startup Scaling
+## 🛠️ SKILLS
+**Leadership**: 🚀 Product Strategy, 🧑‍🤝‍🧑 Team Building, 🌍 Remote Management  
+**Technical**: 🧱 Blockchain, 📱 Full-Stack Dev, ☁️ Cloud Architecture  
+**Product**: 🎨 UX Design, 🔍 User Research, 🔄 Rapid Prototyping  
+**Business**: 📈 Growth Hacking, 💡 Startup Scaling, 🧠 IP Strategy
+
 
 ---
-## PASSION PROJECTS
-- Electronic Dance Music Production & DJ Mixes as [DJ Fuzzy Logic](https://www.mixcloud.com/dj_fuzzy_logic/)
-- Generative Art Software development and production, NFTs and artist tokens development [Shirley Shor Arts](https://www.shirleyshorart.com/)
-- Digital art and NFTs events production [Team Human, NYC](https://www.tommyandyou.com/teamhuman/)
-- Global real-world game level design and production [Satoshi's Treasure](https://www.coindesk.com/tech/2019/04/15/satoshis-treasure-is-a-global-puzzle-with-a-1-million-bitcoin-prize)
+## 🎨 PASSION PROJECTS
+- 🎧 Produces electronic music and DJ sets as DJ Fuzzy Logic
+- 🎨 Develops generative art software and NFTs with Shirley Shor Arts
+- 🖼️ Curates and hosts digital art and NFT events via Team Human, NYC
+- 🌍 Designs real-world game levels for Satoshi's Treasure
