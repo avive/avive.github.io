@@ -44,7 +44,7 @@ Led product development for an [open-source blockchain platform](https://github.
 - Built and managed remote teams across multiple time zones for effective delivery
 - Designed, led development and launched the project's [dashboard](https://dash.spacemesh.io/) and [explorer](https://explorer.spacemesh.io/overview) apps.
 - Created developer tools and documentation to support ecosystem growth
-- Created successful open source blockchain and web3 community technical workshops and events. [WA on the blockchain 2019](https://avive.github.io/wasm_on_the_blockchain/) and [WA 💜 WEB3 2021](https://avive.github.io/wasm_on_the_blockchain_2021)
+- Created successful open source blockchain and web3 community technical workshops and events. [WA on the blockchain 2019](https://avive.github.io/wasm_on_the_blockchain/) and [Web Assembly 💜 WEB3 2021](https://avive.github.io/wasm_on_the_blockchain_2021)
 - Raised $18M in 2 funding rounds from prominent blockchain investors
 <br/>
 
