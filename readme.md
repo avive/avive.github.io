@@ -36,7 +36,7 @@ Founded a news aggregation platform to combat misinformation and solve the fake 
 - Led technical team of 8 through product development, testing, and market launch
 - Designed scalable infrastructure processing 10,000+ news articles daily
 
-### **Founder | Musicsoft Arts LLC** | New York, NY | 2009-2014
+### **Founder and Owner | Musicsoft Arts LLC** | New York, NY | 2009-2014
 Founded and lef a mobile music software company to 25M installs and profitability within one year.
 - Created 10 innovative music applications, including the first music mixing apps for iPhone and iPad
 - Achieved top 10 rankings in App Store music category across 15 countries without external funding
