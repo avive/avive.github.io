@@ -1,4 +1,4 @@
-# Product & Technology Leader | Serial Entrepreneur | Consumer Digital Experiences Expert
+## Product & Technology Leader | Serial Entrepreneur | Consumer Digital Experiences Expert
 
 [Portfolio](https://www.behance.net/aviveyal07926b) | [Blog](https://medium.com/@avive) | [Figma](https://www.figma.com/@avive) | [Code](https://github.com/avive) | [LinkedIn](https://www.linkedin.com/in/avive)
 
@@ -6,10 +6,12 @@ aviveyal07@gmail.com | Twitter [@avive](https://x.com/avive) | Tgram @aviveyal
 
 
 ---
+<br/>
 ## PROFESSIONAL SUMMARY
 Entrepreneurial technology leader with 25+ years of experience building innovative consumer digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Combines hands-on technical contributions with strategic leadership in product development, team building, and IP creation.
 
 ---
+<br/>
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -72,7 +74,7 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 - Implemented animation, sound, and enhanced browser capabilities
 
 ---
-
+<br/>
 ## SKILLS
 - **Leadership**: Product Strategy and Development, Team Building, Vision & Execution, Remote Teams  Management
 - **Technical**: Full-Stack, Blockchain, advanced Mobile and Web Applications, Cloud Architecture
@@ -80,7 +82,7 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 - **Business**: Growth Hacking, Freemium Models, IP Development, Startup Scaling
 
 ---
-
+<br/>
 ## PASSION PROJECTS and HOBBIES
 - Electronic Dance Music Production & DJ Mixes as [DJ Fuzzy Lgoic](https://www.mixcloud.com/dj_fuzzy_logic/)
 - Generative Art Software development and production, NFTs and artist tokens development [Shirley Shor Arts](https://www.shirleyshorart.com/)
