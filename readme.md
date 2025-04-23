@@ -1,5 +1,5 @@
 # AVIV EYAL
-**Product & Technology Leader | Serial Entrepreneur | Consumer Digital Experience Expert**
+**Product & Technology Leader | Serial Entrepreneur | Consumer Digital Experiences Expert**
 
 [LinkedIn](https://www.linkedin.com/in/avive) | [GitHub](https://github.com/avive) | [Portfolio](https://www.behance.net/aviveyal07926b) | [Blog](https://medium.com/@avive)  
 Email: aviveyal07@gmail.com | Twitter/X: [@avive](https://x.com/avive) | Tgram: @aviveyal
@@ -24,6 +24,7 @@ Led product development for an open-source blockchain platform using innovative 
 - Established product roadmap, feature prioritization, and UX vision
 - Built and managed remote teams across multiple time zones for effective delivery
 - Created developer tools and documentation to support ecosystem growth
+- Created succesfull open source blockchain community tech workshops and events. [WA on the blockchain](https://avive.github.io/wasm_on_the_blockchain/)
 
 ### **Co-founder & CTO | Gong, Inc.** | New York, NY | 2014-2017
 Founded AI-driven news aggregation platform to combat misinformation.
@@ -82,4 +83,4 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 ## PASSION PROJECTS
 - Electronic Dance Music Production & DJ Mixes as DJ fyzzy Logic: [Mixcloud](https://www.mixcloud.com/dj_fuzzy_logic/)
 - Software Support for [Shirley Shor Arts](https://www.shirleyshorart.com/)
-- NFTs and [Art Tokens](https://shirleyshor.studio/) Design
+- NFTs and [Art Tokens]([https://shirleyshor.studio/](https://www.tommyandyou.com/teamhuman/)) Design
