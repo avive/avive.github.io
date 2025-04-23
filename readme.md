@@ -50,7 +50,7 @@ Led product development for an [open-source blockchain platform](https://github.
 
 <br/>
 
-### ***Mobile Tech Consultant***, New York, NY, 2016
+### **Mobile Tech Consultant**, New York, NY, 2016
 Designed and built a mobile native advertising sdk for [Yieldmo](https://yieldmo.com/).
 
 ### **Co-founder & CTO | Gong, Inc.** | New York, NY | 2014-2016
