@@ -1,27 +1,31 @@
 ## PROFESSIONAL SUMMARY
-Entrepreneurial technology leader with 25+ years of experience building innovative consumer digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Blends hands-on technical expertise with visionary leadership in product development and team growth.
 
-[Portfolio](https://www.behance.net/aviveyal07926b) | [Blog](https://medium.com/@avive) | [Figma](https://www.figma.com/@avive) | [Code](https://github.com/avive) | [LinkedIn](https://www.linkedin.com/in/avive)
-<br/> 
+Entrepreneurial technology leader with 25+ years of experience building innovative digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Blends hands-on technical expertise with visionary leadership in product development and team growth. Now focused on driving innovation in Web3, AI, and creative tech.
+
+[Portfolio](https://www.behance.net/aviveyal07926b) | [Blog](https://medium.com/@avive) | [Figma](https://www.figma.com/@avive) | [Code](https://github.com/avive) | [LinkedIn](https://www.linkedin.com/in/avive)  
+<br/>
 aviveyal07@gmail.com | [@avive](https://x.com/avive) on Twitter
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
-### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2022-2023
-Launched an open-source blockchain platform and a crypto-currency focused on appreciation and community engagement.
-- Built and led distributed engineering team to launch web and mobile applications
-- Designed intuitive UX to make cryptocurrency accessible to non-technical users
+### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2022–2023
+Launched an open-source cryptocurrency platform promoting gratitude and community-driven economics.
+- Recruited and directed a global engineering team to deliver production-ready web and mobile apps
+- Designed an intuitive UX to make cryptocurrency accessible for non-technical users
+- Implemented social tipping and reward mechanisms to foster engagement
+- Attracted a community of thousands of early adopters through organic growth and grassroots outreach
 - Implemented tipping and community reward mechanisms to drive user engagement
 
 <br/>
 
-### **Founder and Maintainer** | [Subnet](https://subnet.wtf) | Global Team | 2022
-Conceived, prototyped and led a decentralized, open-source social media platform
-- Designed the network architecture and the Subnet mobile app UX
-- Wrote [full specifications](https://subnet.wtf/docs/)
-- Built fully-functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
+### **Founder and Maintainer | [Subnet](https://subnet.wtf)** | Global Team | 2022
+Created and led development of a decentralized, open-source social media protocol.
+- Designed network architecture and UX for the Subnet mobile app
+- Authored [full specifications](https://subnet.wtf/docs/) to guide community-led implementation
+- Built fully functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
+- Pioneered a user-sovereign model for identity and content ownership in social platforms- Built fully-functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
   
 <br/>
 
@@ -99,10 +103,9 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 - **Product**: 🎨 UX Design, 🔍 User Research, 🔄 Rapid Prototyping  
 - **Business**: 📈 Growth Hacking, 💡 Startup Scaling, 🧠 IP Strategy
 
-
 ---
 ## 🎨 PASSION PROJECTS
-- 🎧 Produces electronic music and DJ sets as [DJ Fuzzy Logic](https://www.mixcloud.com/dj_fuzzy_logic/)
+- 🎷 Produces electronic music and DJ sets as [DJ Fuzzy Logic](https://www.mixcloud.com/dj_fuzzy_logic/)
 - 🎨 Develops generative art software and NFTs for [Shirley Shor Arts](https://www.shirleyshorart.com/)
 - 🖼️ Curates and hosts digital art and NFT events such as [Team Human, NYC](https://www.tommyandyou.com/teamhuman/)
 - 🌍 Designs real-world game levels for [Satoshi's Treasure](https://www.coindesk.com/tech/2019/04/15/satoshis-treasure-is-a-global-puzzle-with-a-1-million-bitcoin-prize)
