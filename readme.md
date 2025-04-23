@@ -50,7 +50,7 @@ Founded AI-driven news aggregation platform to combat misinformation.
 <br/>
 
 ### **Founder | Musicsoft Arts LLC** | New York, NY | 2009-2014
-Grew a mobile music application company to 25M installs and profitability within one year
+Grew a mobile music application company to 25M installs and profitability within one year.
 - Created 10 innovative music applications, including the first music mixing apps for iPhone and iPad
 - Achieved top rankings in App Store music category globally and $1M+ ARR without external funding
 - Pioneered mobile native advertising and freemium business models
@@ -77,6 +77,7 @@ Co-founded video sharing platform acquired by Sony for $65M after one year of op
 - Lead a successfull acquisition tech due-dilligence process
 - Built and scaled engineering team to support explosive growth
 - Architected backend systems and video players that could handle millions of users
+- Designed and wrote a personal media sharing desktop app that attracted seed investment round
 - Raised $10M round a from prominent Silicon Valley investors
 
 <br/>
