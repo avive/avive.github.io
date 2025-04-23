@@ -1,3 +1,4 @@
+# Serial Tech Entrepreneur & Product Leader
 ## PROFESSIONAL SUMMARY
 
 Entrepreneurial technology leader with 25+ years of experience building innovative digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Blends hands-on technical expertise with visionary leadership in product development and team growth. Now focused on driving innovation in Web3, AI, and creative tech.
