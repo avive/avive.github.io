@@ -17,25 +17,6 @@ Entrepreneurial technology leader with 25+ years of experience building innovati
 
 ## PROFESSIONAL EXPERIENCE
 
-### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2022–2023
-Funded and launched an [open-source cryptocurrency platform](https://github.com/karma-coin) promoting gratitude and community-driven economics.
-- Recruited and directed a global engineering team to deliver production-ready web and mobile apps
-- Designed an intuitive UX to make cryptocurrency accessible for non-technical users
-- Attracted a community of thousands of early adopters through organic growth and grassroots outreach
-- Implemented social tipping and community reward mechanisms to drive user engagement
-- Designed, implemented and launched [Karmachain](https://github.com/karma-coin/karmachain), an app-specific blockchain in Rust
-
-<br/>
-
-### **Founder & Maintainer | [Subnet](https://subnet.wtf)** | Global Team | 2022
-Created, funded and led development of a decentralized, open-source social media protocol.
-- Designed network architecture and UX for the [Subnet mobile app](https://youtu.be/D04k6BlFowc?si=mRCOBtqw1E19jnu7)
-- Authored [full specifications](https://subnet.wtf/docs/) to guide community-led implementation
-- Pioneered a user-sovereign model for identity and content ownership in social platforms
-- Built fully-functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
-  
-<br/>
-
 ### **Co-founder & Chief Product Officer | [Spacemesh](https://spacemesh.io)** | Global Team | 2017-2022
 Led product development for an [open-source blockchain platform](https://github.com/spacemeshos) using innovative proofs-of-space-time consensus.
 - Directed development of core platform and applications with focus on energy efficiency
@@ -105,6 +86,30 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 - Enhanced Internet Explorer multimedia capabilities using Java, C++, and scripting
 - Developed HTML-based multimedia editor for Office documents (Microsoft Vizact)
 - Implemented animation, sound, and enhanced browser capabilities
+
+---
+
+## OPEN SOURCE PROJECTS
+
+### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2022–2023
+Funded and launched an [open-source cryptocurrency platform](https://github.com/karma-coin) promoting gratitude and community-driven economics.
+- Recruited and directed a global engineering team to deliver production-ready web and mobile apps
+- Designed an intuitive UX to make cryptocurrency accessible for non-technical users
+- Attracted a community of thousands of early adopters through organic growth and grassroots outreach
+- Implemented social tipping and community reward mechanisms to drive user engagement
+- Designed, implemented and launched [Karmachain](https://github.com/karma-coin/karmachain), an app-specific blockchain in Rust
+
+<br/>
+
+### **Founder & Maintainer | [Subnet](https://subnet.wtf)** | Global Team | 2022
+Created, funded and led development of a decentralized, open-source social media protocol.
+- Designed network architecture and UX for the [Subnet mobile app](https://youtu.be/D04k6BlFowc?si=mRCOBtqw1E19jnu7)
+- Authored [full specifications](https://subnet.wtf/docs/) to guide community-led implementation
+- Pioneered a user-sovereign model for identity and content ownership in social platforms
+- Built fully-functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
+  
+<br/>
+
 
 ---
 ## SKILLS
