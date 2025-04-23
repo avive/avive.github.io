@@ -26,7 +26,7 @@ Led product development for an open-source blockchain platform using innovative 
 - Built and managed remote teams of 24 developers across 8 time zones, implementing agile methodologies
 - Designed and launched the project's [dashboard](https://dash.spacemesh.io/) and [explorer](https://explorer.spacemesh.io/overview) apps with 30,000+ monthly active users
 - Created developer tools and documentation supporting 15+ ecosystem projects
-- Organized successful blockchain technical workshops including [WA on the Blockchain 2019](https://avive.github.io/wasm_on_the_blockchain/) and [WA 💜 WEB3 2021](https://avive.github.io/wasm_on_the_blockchain_2021)
+- Organized successful blockchain community technical workshops including [WA on the Blockchain 2019](https://avive.github.io/wasm_on_the_blockchain/) and [WA 💜 WEB3 2021](https://avive.github.io/wasm_on_the_blockchain_2021)
 
 <br/>
 ### **Co-founder & CTO | Gong, Inc.** | New York, NY | 2014-2017
