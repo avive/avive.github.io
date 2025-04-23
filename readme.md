@@ -119,6 +119,7 @@ Created, funded and led development of a decentralized, open-source social media
 - **Product**: 🎨 UX Design, 🔍 User Research, 🔄 Rapid Prototyping  
 - **Business**: 📈 Growth Hacking, 💡 Startup Scaling
 - **Software**: Rust, Go, Dart, Flutter, React, Swift
+
 ---
 ## PASSION PROJECTS
 - 🎷 Electronic music production and music mixes as [DJ Fuzzy Logic](https://www.mixcloud.com/dj_fuzzy_logic/)
