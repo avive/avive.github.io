@@ -92,7 +92,7 @@ Co-founded video sharing platform acquired by Sony for $65M one year from foundi
 - Architected backend systems and video players that could handle millions of users
 - Designed and wrote a personal media sharing desktop app that attracted seed investment round
 - Initiated and implemented innovative growth hacking techniques that drove rapid user growth
-- Led a successful acquisition tech due-dilligence process
+- Led a successful acquisition tech due-diligence process
   
 <br/>
 
