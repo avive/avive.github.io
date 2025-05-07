@@ -129,4 +129,4 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 - 🎨 Generative art custom software, NFTs and artist tokenization for [Shirley Shor Arts](https://www.shirleyshorart.com/)
 - 🖼️ Digital art and NFT events production [Team Human, NYC](https://www.tommyandyou.com/teamhuman/)
 - 🌍 Real-world game level design and production for [Satoshi's Treasure](https://www.coindesk.com/tech/2019/04/15/satoshis-treasure-is-a-global-puzzle-with-a-1-million-bitcoin-prize)
-
+- 🖼️ [NFTs Collection](https://opensea.io/avive)
