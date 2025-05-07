@@ -76,16 +76,16 @@ Grew a mobile music application company to 25M installs and profitability within
 
 ### **VP, Technology | Sony** | San Francisco, CA | 2006-2008
 Led innovation initiatives bringing user-generated video content to Sony hardware devices.
-- Built the first Internet video applications for PlayStation platforms, reaching millions of users
-- Developed video sharing API used by PureDigital cameras (acquired by Cisco)
+- Built the first Internet video apps for PlayStation platforms, reaching millions of users
+- Developed video sharing technology used by PureDigital cameras (acquired by Cisco)
 - Created intellectual property for consumer video sharing and geo-tagging
-- Initiated early cloud-based personal media hosting service (pre-iCloud concept)
+- Initiated early cloud-based personal media hosting service
 - Collaborated with global Sony teams to integrate internet capabilities into consumer electronics
 
 <br/>
 
 ### **Co-founder & CTO | Grouper Networks/Crackle** | San Francisco, CA | 2004-2006
-Co-founded video sharing platform acquired by Sony for $65M after one year of operation.
+Co-founded video sharing platform acquired by Sony for $65M one year from founding.
 - Designed and built award-winning peer-to-peer media sharing application [PC Magazine Editor's Choice](https://uk.pcmag.com/software/25708/grouper-20-beta)
 - Developed large-scale user-generated video web application (now [Crackle.com](https://crackle.com))
 - Built and scaled engineering team to support explosive growth
@@ -103,6 +103,7 @@ Created pioneering social music discovery platform named by Newsweek as [one of 
 - Created streaming audio internet search engine using C++
 - Designed innovative user interface for music discovery and sharing
 - Hired and led music editorial team
+- Created innovative editorial workflows and tools
 - Raised $1M seed round from prominent Silicon Valley investors
 
 <br/>
@@ -111,7 +112,7 @@ Created pioneering social music discovery platform named by Newsweek as [one of 
 Contributed to core HTML5 concepts and multimedia technologies for Internet Explorer and Office.
 - Enhanced Internet Explorer multimedia capabilities using Java, C++, and scripting
 - Developed HTML-based multimedia editor for Office documents (Microsoft Vizact)
-- Implemented animation, sound, and enhanced browser capabilities
+- Implemented animation, sound, and enhanced browser capabilities in Office apps
 
 ---
 ## SKILLS
