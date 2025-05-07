@@ -1,15 +1,15 @@
-# Serial Tech Entrepreneur & Product Leader
+# Serial Tech Entrepreneur, Generalist & Product Leader
 ## PROFESSIONAL SUMMARY
 
 Entrepreneurial technology leader with 25+ years of experience building innovative digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Blends hands-on technical expertise with visionary leadership in product development and team growth. Now focused on driving innovation in Web3, AI, and creative tech.
 
-🎨 [Portfolio](https://www.behance.net/aviveyal07926b): A behance showcase of some of the apps I've built 
+🎨 [Portfolio](https://www.behance.net/aviveyal07926b): A showcase of some of the apps I've built 
 <br/>
 ✏️ [Blog](https://medium.com/@avive): Writings on Medium
 <br/>
 🖌️ [Designs](https://www.figma.com/@avive): Product design work on Figma
 <br/>
-💻 [Code](https://github.com/avive): Open source projects on github
+💻 [Code](https://github.com/avive): Open source projects on Github
 <br/>
 🔗 [LinkedIn](https://www.linkedin.com/in/avive): Professional profile
 <br/>
@@ -24,14 +24,14 @@ Funded and launched an [open-source cryptocurrency platform](https://github.com/
 - Designed an intuitive UX to make cryptocurrency accessible for non-technical users
 - Attracted a community of thousands of early adopters through organic growth and grassroots outreach
 - Implemented social tipping and community reward mechanisms to drive user engagement
-- Designed, implemented and launched [Karmachain](https://github.com/karma-coin/karmachain), an app-specific blockchain in Rust
+- Designed, implemented and launched [Karmachain](https://github.com/karma-coin/karmachain), an advanced app-specific blockchain in Rust
 
 <br/>
 
 ### **Founder & Maintainer | [Subnet](https://subnet.wtf)** | Global Team | 2022-2023
 Created, funded and led development of a decentralized, open-source social media protocol.
 - Designed network architecture and UX for the [Subnet mobile app](https://youtu.be/D04k6BlFowc?si=mRCOBtqw1E19jnu7)
-- Authored [full specifications](https://subnet.wtf/docs/) to guide community-led implementation
+- Authored [full specifications](https://subnet.wtf/docs/) to guide community-led development
 - Pioneered a user-sovereign model for identity and content ownership in social platforms
 - Built fully-functional [p2p nodes](https://github.com/subnetter/subnet) in Rust
   
@@ -46,31 +46,31 @@ Led product development for an [open-source blockchain platform](https://github.
 - Designed, led development and launched the project's [dashboard](https://dash.spacemesh.io/) and [explorer](https://explorer.spacemesh.io/overview) apps.
 - Created developer tools and documentation to support ecosystem growth
 - Created successful open source blockchain and web3 community technical workshops and events. [WA on the blockchain 2019](https://avive.github.io/wasm_on_the_blockchain/) and [Web Assembly 💜 WEB3 2021](https://avive.github.io/wasm_on_the_blockchain_2021)
-- Raised $18M in 2 funding rounds from prominent blockchain investors
+- Raised $20M+ in 2 funding rounds from prominent blockchain investors
 
 <br/>
 
 ### **Mobile Tech Consultant**, New York, NY, 2016
-Designed and built a mobile native advertising sdk for [Yieldmo](https://yieldmo.com/).
+Designed and built a mobile native cross-platform advertising sdk for [Yieldmo](https://yieldmo.com/).
 
 <br/>
 
 ### **Co-founder & CTO | Gong, Inc.** | New York, NY | 2014-2016
 Founded AI-driven news aggregation platform to combat misinformation.
 - Architected and built full-stack mobile platform across web, iOS, and Android
-- Implemented machine learning algorithms for content categorization and verification
+- Integrated machine learning algorithms for content categorization and verification
 - Led technical team through product development, testing, and market launch
 - Designed scalable infrastructure to support rapid content processing
 
 <br/>
 
-### **Founder | Musicsoft Arts LLC** | New York, NY | 2009-2014
+### **Founder and CEO | Musicsoft Arts LLC** | New York, NY | 2009-2014
 Grew a mobile music application company to 25M installs and profitability within one year.
 - Created 10 innovative music applications, including the first music mixing apps for iPhone and iPad
 - Achieved top rankings in App Store music category globally and $1M+ ARR without external funding
-- Pioneered mobile native advertising and freemium business models
-- Developed branded applications for major artists and companies (Carl Cox, DJ Spooky, Vibe magazine)
-- Conceptualized and built the world's first music album released as a mobile app
+- Pioneered mobile native advertising and freemium business models working with leading global brands such as Moet Hennesy, LMVH, Hyundai and Ford 
+- Developed branded applications for major artists and companies (Carl Cox, DJ Spooky, Thievery Corporation, Vibe magazine)
+- Conceptualized and built the world's first audio visual music album released as a mobile app
 
 <br/>
 
