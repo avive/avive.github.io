@@ -1,7 +1,7 @@
 # Serial Tech Entrepreneur, Generalist & Product Leader
 ## PROFESSIONAL SUMMARY
 
-Entrepreneurial technology leader with 25+ years of experience building innovative digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Blends hands-on technical expertise with visionary leadership in product development and team growth. Now focused on driving innovation in Web3, AI, and creative tech.
+Entrepreneurial technology leader with 25+ years of experience building innovative digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Blends hands-on technical expertise with visionary leadership in product development and team growth. Now focused on driving innovation in Web3, AI, and creative tech. My career objective is to build great innovative products.
 
 🎨 [Portfolio](https://www.behance.net/aviveyal07926b): A showcase of some of the apps I've built 
 <br/>
@@ -91,7 +91,7 @@ Co-founded video sharing platform acquired by Sony for $65M one year from foundi
 - Built and scaled engineering team to support explosive growth
 - Architected backend systems and video players that could handle millions of users
 - Designed and wrote a personal media sharing desktop app that attracted seed investment round
-Initiated and implemented innovative growth hacking techniques that drove rapid user growth
+- Initiated and implemented innovative growth hacking techniques that drove rapid user growth
 - Led a successful acquisition tech due-dilligence process
   
 <br/>
