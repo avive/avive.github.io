@@ -132,4 +132,4 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 - 🖼️ [NFTs Collection](https://opensea.io/avive)
 
 ## Education
-- Bs. c Philosophy and Computer Science, Tel Aviv University
+Bs. c Philosophy and Computer Science, Tel Aviv University
