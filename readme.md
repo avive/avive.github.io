@@ -131,5 +131,5 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 - 🌍 Real-world game level design and production for [Satoshi's Treasure](https://www.coindesk.com/tech/2019/04/15/satoshis-treasure-is-a-global-puzzle-with-a-1-million-bitcoin-prize)
 - 🖼️ [NFTs Collection](https://opensea.io/avive)
 
-## Education
+## EDUCATION
 Bs. c Philosophy and Computer Science, Tel Aviv University
