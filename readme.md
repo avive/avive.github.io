@@ -1,7 +1,7 @@
-# Serial Tech Entrepreneur, Generalist & Product Leader
+# Fractional CTO / CPO for AI Products | Serial Founder & Product Leader
 ## PROFESSIONAL SUMMARY
 
-Entrepreneurial technology leader with 25+ years of experience building innovative digital products. Serial founder with multiple successful exits, including a $65M acquisition by Sony. Expert in launching and scaling user-friendly applications with exceptional user experiences. Blends hands-on technical expertise with visionary leadership in product development and team growth. Now focused on driving innovation in Web3, AI, and creative tech. My career objective is to build great innovative products.
+Hands-on technology and product leader with 25+ years of experience building digital products, and a serial founder with a $65M exit to Sony. Since 2025 I have designed, built and shipped three AI products to production, mostly alone: AI agent systems with tool use, browser automation, evals and the backend under them, in Rust and TypeScript. I help founders and product teams decide what to build, then design, build and ship AI products that work in production. Open to fractional CTO and CPO engagements, remote, on EU and US hours.
 
 🎨 [Portfolio](https://www.behance.net/aviveyal07926b): A showcase of some of the apps I've built 
 <br/>
@@ -18,6 +18,34 @@ Entrepreneurial technology leader with 25+ years of experience building innovati
 ---
 
 ## PROFESSIONAL EXPERIENCE
+
+### **Founder & CEO | [Workotron](https://workotron.com)** | Remote | 2026–Present
+A private, always-on AI computer with an AI chief of ops that runs a solo business's operations: email, customers, invoices, reminders, research and documents.
+- Designed and built the whole system, mostly alone: the agent runtime, the machine image, web, iOS and Android apps, and 70 ready-made business workflows, mostly in Rust
+- Built an agent runtime where every task is a supervised actor running an LLM workflow, with sandboxed tools, browser automation and an LLM-based firewall against prompt injection
+- Workflows improve themselves every night from the day's feedback, measured by evals
+- Ships four office apps with AI built in, a Skills directory with an MCP server, and bring-your-own-model support (ChatGPT plan, OpenRouter, self-hosted models)
+- Launched a private beta on 1 October 2026: almost 300 tasks completed for the first users, 96% of them successfully
+- Launched the 1.0 open beta with paid plans in November 2026, with each user on their own hosted machine
+
+<br/>
+
+### **Founder | [Polymyth](https://polymyth.quest)** | Remote | 2025–2026
+An AI-powered D&D 5E multiplayer game with an autonomous AI Game Master.
+- Designed and built a team of AI agents on Gemini and Claude for narration, roleplay, character creation, party coordination and rules questions
+- Built the game backend in Rust (Tokio and Axum) with a deterministic combat engine, so the rules are always applied exactly
+- Built rules lookup over Elasticsearch, and React clients with live multiplayer sessions over WebSockets
+- Ran the studio's marketing, support and growth on Workotron
+
+<br/>
+
+### **Founder | [Skillful](https://skillfulapp.com)** | Remote | 2025
+A video coaching marketplace: learners buy lessons, submit assignment videos and get personal video feedback from coaches.
+- Designed and built the full platform: React and TypeScript web app, Firebase and Google Cloud backend
+- Built an AI video pipeline: Gemini video analysis, speech-to-text captions and HLS transcoding
+- Built marketplace payments on Stripe Connect with coach onboarding and automatic payouts
+
+<br/>
 
 ### **Founder & CEO | [Karma Coin](https://karmaco.in/)** | Global Team | 2023–2024
 Funded and launched an [open-source cryptocurrency platform](https://github.com/karma-coin) promoting gratitude and community-driven economics.
@@ -117,11 +145,13 @@ Contributed to core HTML5 concepts and multimedia technologies for Internet Expl
 
 ---
 ## SKILLS
+- **AI**: 🤖 AI Agents, 🧰 LLM Tool Use, 🧪 Evals, 🌐 Browser Automation, 🔐 Prompt Injection Defense
 - **Leadership**: 🚀 Product Strategy, 🧑‍🤝‍🧑 Team Building, 🌍 Remote Management  
-- **Technical**: 🧱 Blockchain, 📱 Full-Stack, ☁️ Cloud, Mobile and web Apps  
+- **Technical**: 📱 Full-Stack, ☁️ Cloud, Mobile and web Apps, 🧱 Blockchain  
 - **Product**: 🎨 UX Design, 🔍 User Research, 🔄 Rapid Prototyping  
 - **Business**: 📈 Growth Hacking, 💡 Startup Scaling
-- **Software**: Rust, Dart, Flutter, Swift, Go, React
+- **Software**: Rust, TypeScript, React, Dart, Flutter, Swift, Go
+- **AI platforms**: Gemini, Claude, OpenAI, OpenRouter, Gemma, MCP
 
 ---
 ## PASSION PROJECTS
