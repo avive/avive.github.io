@@ -142,7 +142,7 @@ Created pioneering social music discovery platform named by Newsweek as [one of 
 
 <br/>
 
-### **Software Developer | Microsoft** | Redmond, WA | 1998-1999
+### **Software Developer | Microsoft** | Redmond, WA | 1997-2000
 Contributed to core HTML5 concepts and multimedia technologies for Internet Explorer and Office.
 - Enhanced Internet Explorer multimedia capabilities using Java, C++, and scripting
 - Developed HTML-based multimedia editor for Office documents (Microsoft Vizact)
