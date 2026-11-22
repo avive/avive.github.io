@@ -1,7 +1,7 @@
 # Fractional CTO / CPO for AI Products | Serial Founder & Product Leader
 ## PROFESSIONAL SUMMARY
 
-Hands-on technology and product leader with 25+ years of experience building digital products, and a serial founder with a $65M exit to Sony. Since 2025 I have designed, built and shipped three AI products to production, mostly alone: AI agent systems with tool use, browser automation, evals and the backend under them, in Rust and TypeScript. I help founders and product teams decide what to build, then design, build and ship AI products that work in production. Open to fractional CTO and CPO engagements, remote, on EU and US hours.
+Hands-on technology and product leader with 25+ years of experience building digital products used by millions of people worldwide, including the Musicsoft Arts mobile apps, Sony PlayStation video apps and the Grouper video site, and a serial founder with a $65M exit to Sony. Since 2025 I have designed, built and shipped three AI products to production, mostly alone: AI agent systems with tool use, browser automation, evals and the backend under them, in Rust and TypeScript. I help founders and product teams decide what to build, then design, build and ship AI products that work in production. Open to fractional CTO and CPO engagements, remote, on EU and US hours.
 
 🎨 [Portfolio](https://www.behance.net/aviveyal07926b): A showcase of some of the apps I've built 
 <br/>
