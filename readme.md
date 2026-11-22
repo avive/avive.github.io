@@ -103,6 +103,11 @@ Grew a mobile music application company to 25M installs and profitability within
 
 <br/>
 
+### **Co-founder & CTO | Livekick** | New York, NY | 2008-2009
+Co-founded a live music discovery web app that recommended concerts based on the user's location and favorite artists and songs. Covered by TechCrunch and reviewed by CNET.
+
+<br/>
+
 ### **VP, Technology | Sony** | San Francisco, CA | 2006-2008
 Led innovation initiatives bringing user-generated video content to Sony hardware devices.
 - Built the first Internet video apps for PlayStation platforms, reaching millions of users
@@ -125,7 +130,7 @@ Co-founded video sharing platform acquired by Sony for $65M one year from foundi
   
 <br/>
 
-### **Co-founder & CTO | Friskit, Inc.** | San Francisco, CA | 2000-2004
+### **Co-founder & CTO | Friskit, Inc.** | San Francisco, CA | 2000-2003
 Created pioneering social music discovery platform named by Newsweek as [one of the top 10 technologies that will change your life.](https://www.newsweek.com/2001-tech-odyssey-155835)
 - Built first internet personalized radio application using web technologies
 - Developed collaborative filtering-based music recommendation system
@@ -137,7 +142,7 @@ Created pioneering social music discovery platform named by Newsweek as [one of 
 
 <br/>
 
-### **Software Developer | Microsoft** | Redmond, WA | 1997-2000
+### **Software Developer | Microsoft** | Redmond, WA | 1998-1999
 Contributed to core HTML5 concepts and multimedia technologies for Internet Explorer and Office.
 - Enhanced Internet Explorer multimedia capabilities using Java, C++, and scripting
 - Developed HTML-based multimedia editor for Office documents (Microsoft Vizact)
