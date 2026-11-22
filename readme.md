@@ -70,6 +70,9 @@ Created, funded and led development of a decentralized, open-source social media
 Led product development for an [open-source blockchain platform](https://github.com/spacemeshos) using innovative proofs-of-space-time consensus.
 - Directed development of core platform and applications with focus on energy efficiency
 - Established product roadmap, feature prioritization, and UX vision
+- Led the product management team
+- Built the project's community to tens of thousands of members
+- Designed and shipped the wallet and mining app, built to be the easiest crypto wallet and mining software for non-technical people
 - Authored key developer documentation to catalyze open-source adoption
 - Built and managed remote teams across multiple time zones for effective delivery
 - Designed, led development and launched the project's [dashboard](https://dash.spacemesh.io/) and [explorer](https://explorer.spacemesh.io/overview) apps.
