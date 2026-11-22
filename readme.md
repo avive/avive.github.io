@@ -19,7 +19,7 @@ Hands-on technology and product leader with 25+ years of experience building dig
 
 ## PROFESSIONAL EXPERIENCE
 
-### **Founder & CEO | [Workotron](https://workotron.com)** | Remote | 2026–Present
+### **Founder & CEO | [Workotron](https://workotron.com)** | Remote | 2025–Present
 A private, always-on AI computer with an AI chief of ops that runs a solo business's operations: email, customers, invoices, reminders, research and documents.
 - Designed and built the whole system, mostly alone: the agent runtime, the machine image, web, iOS and Android apps, and 70 ready-made business workflows, mostly in Rust
 - Built an agent runtime where every task is a supervised actor running an LLM workflow, with sandboxed tools, browser automation and an LLM-based firewall against prompt injection
