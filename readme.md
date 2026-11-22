@@ -39,8 +39,8 @@ An AI-powered D&D 5E multiplayer game with an autonomous AI Game Master.
 
 <br/>
 
-### **Founder | [Skillful](https://skillfulapp.com)** | Remote | 2025
-A video coaching marketplace: learners buy lessons, submit assignment videos and get personal video feedback from coaches.
+### **Founder | [Skillful](https://skillfulapp.com)** | Remote | 2025–2026
+A video coaching marketplace for music education: learners buy lessons, submit assignment videos and get personal video feedback from coaches.
 - Designed and built the full platform: React and TypeScript web app, Firebase and Google Cloud backend
 - Built an AI video pipeline: Gemini video analysis, speech-to-text captions and HLS transcoding
 - Built marketplace payments on Stripe Connect with coach onboarding and automatic payouts
