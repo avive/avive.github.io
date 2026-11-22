@@ -119,7 +119,7 @@ Led innovation initiatives bringing user-generated video content to Sony hardwar
 <br/>
 
 ### **Co-founder & CTO | Grouper Networks/Crackle** | San Francisco, CA | 2004-2006
-Co-founded video sharing platform acquired by Sony for $65M one year from founding.
+Co-founded video sharing platform acquired by Sony for $65M in 2006, two years after founding.
 - Designed and built award-winning peer-to-peer media sharing application [PC Magazine Editor's Choice](https://uk.pcmag.com/software/25708/grouper-20-beta)
 - Developed large-scale user-generated video web application (now [Crackle.com](https://crackle.com))
 - Built and scaled engineering team to support explosive growth
